@@ -1,4 +1,4 @@
-const fibonaci = (n) => {
+const rec_deb = (n) => {
    if (n < 2) {
       return n;
    }
