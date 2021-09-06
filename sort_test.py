@@ -14,6 +14,7 @@ for i in range(N-1):
 
 print(a)
 
+
 def insertion_sort(alist):
     for i in range(1, len(alist)):
         temp = alist[i]
